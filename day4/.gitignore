@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+.VENV/
+ENV/
+Day4-s4F97Fuc/
+
+# Django stuff
+*.log
+*.pot
+*.py~
+*.sqlite3
+db.sqlite3
+media/
+staticfiles/
+static_root/
+local_settings.py
+
+# VS Code / JetBrains
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Coverage / testing
+.coverage
+.tox/
+nosetests.xml
+coverage.xml
+htmlcov/
+
+# Environment files
+.env
+.env.*
+*.env
+
+# Migrations (optional — keep if you want to reset DB easily)
+# **/migrations/
+# !**/migrations/__init__.py
